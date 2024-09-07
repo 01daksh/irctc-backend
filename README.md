@@ -2,7 +2,7 @@ IRCTC BACKEND WORKINDIA
 
 Tech Stack Used:
 
-  Language : JavaScript
-  Framework : Node.js and Express.js
-  Database: PostgreSQL
-  Testing done using : Postman
+  1) Language : JavaScript
+  2) Framework : Node.js and Express.js
+  3) Database: PostgreSQL
+  4) Testing done using : Postman
